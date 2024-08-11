@@ -69,6 +69,12 @@ Contributions to enhance the project are welcome! You can:
 
 - **Submit Pull Requests**: For improvements or feature additions, fork the repository, make your changes, and submit a pull request.
 
+
+## Contact for Dataset Access
+If you require access to the datasets (data1.csv, data2.csv, data3.csv) used in this project, please contact [saad.naveed.dev@gmail.com] for access.
+Provide details about your project and intended use.
+
+
 ## License
 
 This project is licensed under the MIT License.
