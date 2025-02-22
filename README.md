@@ -17,7 +17,7 @@ This project implements a text classification model to predict depression using 
 - Pandas
 - Scikit-learn
 - Matplotlib
-- Keras (bundled with TensorFlow)
+- Keras (TensorFlo)
 
 You can install the necessary packages using `pip`:
 
