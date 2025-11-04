@@ -13,7 +13,7 @@ This project implements a text classification model to predict depression using 
 
 - Python 3.x
 - Jupyter Notebook
-- TensorFlow 2.x
+- TensorFlow
 - Pandas
 - Scikit-learn
 - Matplotlib
