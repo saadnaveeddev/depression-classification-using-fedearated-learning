@@ -1,6 +1,6 @@
 # Depression Classification Using Federated Learning
 
-This project implements a text classification model to predict depression using federated learning techniques. Utilizing TensorFlow and Keras within a Jupyter Notebook environment, the model is trained across multiple datasets, ensuring data privacy by keeping data localized.
+This project implements a text classification model to predict depression using federated learning techniques. Utilizing TensorFlow and Keras within a Jupyter Notebook environment, the model is trained across multiple datasets, ensuring data privacy by keeping data localized
 
 ## Project Structure
 
